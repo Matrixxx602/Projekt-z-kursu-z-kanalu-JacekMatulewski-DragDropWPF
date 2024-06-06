@@ -1,0 +1,15 @@
+C:\Users\Nielot\source\repos\Drag&Drop\Drag&Drop\bin\Debug\Drag&Drop.exe.config
+C:\Users\Nielot\source\repos\Drag&Drop\Drag&Drop\bin\Debug\Drag&Drop.exe
+C:\Users\Nielot\source\repos\Drag&Drop\Drag&Drop\bin\Debug\Drag&Drop.pdb
+C:\Users\Nielot\source\repos\Drag&Drop\Drag&Drop\obj\Debug\Drag&Drop.csproj.AssemblyReference.cache
+C:\Users\Nielot\source\repos\Drag&Drop\Drag&Drop\obj\Debug\MainWindow.g.cs
+C:\Users\Nielot\source\repos\Drag&Drop\Drag&Drop\obj\Debug\App.g.cs
+C:\Users\Nielot\source\repos\Drag&Drop\Drag&Drop\obj\Debug\Drag&Drop_MarkupCompile.cache
+C:\Users\Nielot\source\repos\Drag&Drop\Drag&Drop\obj\Debug\Drag&Drop_MarkupCompile.lref
+C:\Users\Nielot\source\repos\Drag&Drop\Drag&Drop\obj\Debug\MainWindow.baml
+C:\Users\Nielot\source\repos\Drag&Drop\Drag&Drop\obj\Debug\Drag&Drop.g.resources
+C:\Users\Nielot\source\repos\Drag&Drop\Drag&Drop\obj\Debug\Drag_Drop.Properties.Resources.resources
+C:\Users\Nielot\source\repos\Drag&Drop\Drag&Drop\obj\Debug\Drag&Drop.csproj.GenerateResource.cache
+C:\Users\Nielot\source\repos\Drag&Drop\Drag&Drop\obj\Debug\Drag&Drop.csproj.CoreCompileInputs.cache
+C:\Users\Nielot\source\repos\Drag&Drop\Drag&Drop\obj\Debug\Drag&Drop.exe
+C:\Users\Nielot\source\repos\Drag&Drop\Drag&Drop\obj\Debug\Drag&Drop.pdb
